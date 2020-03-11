@@ -19,15 +19,8 @@ theme: minima
 plugins:
 - jekyll-feed
 
-author:
-  name: Theophilus Bassaw
-  email: "theophilus.bassaw45@qmail.cuny.edu"
+twitter_username: wqmcradio
+facebook_username: QueensCollegeRadio
+instagram_username: wqmcradioqc
 
-minima:
-  social_links:
-    twitter: wqmcradio
-    facebook: QueensCollegeRadio
-    instagram: wqmcradioqc
-
-    youtube_channel: UCuzG0kQW3HVG-SHPWTVDxgw
-    youtube_channel_name: WQMCast
+youtube_username: WQMCast
