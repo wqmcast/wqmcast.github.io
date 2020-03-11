@@ -18,8 +18,6 @@ twitter_username: wqmcradio
 theme: minima
 plugins:
 - jekyll-feed
-
-twitter_username: wqmcradio
 facebook_username: QueensCollegeRadio
 instagram_username: wqmcradioqc
 
